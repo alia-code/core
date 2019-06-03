@@ -1,0 +1,25 @@
+{
+  "extends": [
+    "standard",
+    "eslint:recommended",
+    "airbnb-base"
+  ],
+  "plugins": [
+    "standard",
+    "import",
+    "promise"
+  ],
+  "env": {
+    "es6": true,
+    "browser": false,
+    "node": true
+  },
+  "parserOptions": {
+    "ecmaVersion": 2019,
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": false,
+      "modules": true
+    }
+  }
+}
