@@ -1,2 +1,2 @@
-exports.profile = (req, res) => res.jsonc(require.resolve('../data/people/christhopher_lion/profile.jsonc'));
-exports.social = (req, res) => res.jsonc(require.resolve('../data/people/christhopher_lion/social.jsonc'));
+exports.profile = (req, res) => res.json(require.resolve('../data/people/christhopher_lion/profile.json'));
+exports.social = (req, res) => res.json(require.resolve('../data/people/christhopher_lion/social.json'));

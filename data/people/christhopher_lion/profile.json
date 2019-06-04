@@ -14,27 +14,27 @@
     "lastName": {
       "en": "Lion",
       "pt": "Leão",
-      "he": "אריה",
+      "he": "אריה"
     },
     "firstName": {
       "en": "Christhopher",
       "pt": "Christhopher",
-      "he": "כריסטופר",
+      "he": "כריסטופר"
     }
   },
 
   "contact": {
     "emails": [
       "christhopherleao@icloud.com",
-      "christhopheramaral@gmail.com",
+      "christhopheramaral@gmail.com"
     ],
     "skype": {
       "icon": "fa-skype",
       "label": "christhopher.amaral",
-      "url": "https://join.skype.com/invite/QRZJqK4phjyU",
+      "url": "https://join.skype.com/invite/QRZJqK4phjyU"
     },
     "phone": "+351913840493",
-    "agenda": "https://calendly.com/itsmelion/talk",
+    "agenda": "https://calendly.com/itsmelion/talk"
   },
 
   "address": {
@@ -42,7 +42,7 @@
     "complement": "C/V Esq.",
     "code": "2675-304",
     "city": "Lisbon",
-    "country": "Portugal",
+    "country": "Portugal"
   },
 
   "bio": {
@@ -50,7 +50,7 @@
     "pt": "Eu sou um Desenvolvedor Frontend, que gosta de trabalhar em ambientes de crescimento e inovação. Me importo bastante com desempenho, software de ponta, além de ser um amante de Design e entusiasta de interface/experiência de usuário.",
     "strengths": {
       "en": "My range of skills gives me the ability to take solid decisions on building a beautiful and performant software. Improve the communication between Designers and Developers, lead teams, and mentor less experienced Designers or Frontend Developers.",
-      "pt": "Minha experiência, me traz a habilidade de tomar decisões mais concretas no desenvolvimento de um software mais bonito e com performance. Posso aprimorar a comunicação entre Design e Desenvolvimento, liderar equipes e mentorear a carreira de designers e desenvolvedores menos experientes.",
+      "pt": "Minha experiência, me traz a habilidade de tomar decisões mais concretas no desenvolvimento de um software mais bonito e com performance. Posso aprimorar a comunicação entre Design e Desenvolvimento, liderar equipes e mentorear a carreira de designers e desenvolvedores menos experientes."
     }
-  },
+  }
 }

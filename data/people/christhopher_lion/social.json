@@ -1,0 +1,23 @@
+{
+  "github": {
+    "icon": "fa-github",
+    "name": "Github",
+    "user": "itsmelion",
+    "url": "https://github.com/itsmelion"
+  },
+  "linkedin": {
+    "icon": "fa-linkedin",
+    "name": "LinkedIn",
+    "url": "https://linkedin.com/in/chrislion"
+  },
+  "behance": {
+    "icon": "fa-behance",
+    "name": "Behance",
+    "url": "https://behance.net/lion_red"
+  },
+  "facebook": {
+    "icon": "fa-facebook",
+    "name": "Facebook",
+    "url": "https://facebook.com/christhopherleao"
+  }
+}
