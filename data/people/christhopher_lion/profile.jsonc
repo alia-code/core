@@ -1,0 +1,56 @@
+
+{
+  "email": "christhopherleao@icloud.com",
+  "phone": "+351913840493",
+  "ocupation": "Frontend Developer",
+  "roles": ["Frontend Developer", "UIUX Designer"],
+  "picture": {
+    "avatar": "https://secure.gravatar.com/avatar/657baf6950159bf28d5c5b67901cb126",
+    "thumbnail": "https://drive.google.com/uc?export=open&id=1hLJSeth-4wzh3kmC3ZHOqaJEAN2hNkQc",
+    "body": "https://drive.google.com/uc?export=open&id=1Y3CYA1TSLnCA9A58jQvWS3xQUngF-OMa"
+  },
+
+  "name": {
+    "lastName": {
+      "en": "Lion",
+      "pt": "Leão",
+      "he": "אריה",
+    },
+    "firstName": {
+      "en": "Christhopher",
+      "pt": "Christhopher",
+      "he": "כריסטופר",
+    }
+  },
+
+  "contact": {
+    "emails": [
+      "christhopherleao@icloud.com",
+      "christhopheramaral@gmail.com",
+    ],
+    "skype": {
+      "icon": "fa-skype",
+      "label": "christhopher.amaral",
+      "url": "https://join.skype.com/invite/QRZJqK4phjyU",
+    },
+    "phone": "+351913840493",
+    "agenda": "https://calendly.com/itsmelion/talk",
+  },
+
+  "address": {
+    "street": "R. Bombeiros Voluntários 20, Odivelas",
+    "complement": "C/V Esq.",
+    "code": "2675-304",
+    "city": "Lisbon",
+    "country": "Portugal",
+  },
+
+  "bio": {
+    "en": "Im a Frontend Developer, that loves growth and innovation. Im performance obsessed, love cutting edge software, and i also am a Design and UIUX enthusiast.",
+    "pt": "Eu sou um Desenvolvedor Frontend, que gosta de trabalhar em ambientes de crescimento e inovação. Me importo bastante com desempenho, software de ponta, além de ser um amante de Design e entusiasta de interface/experiência de usuário.",
+    "strengths": {
+      "en": "My range of skills gives me the ability to take solid decisions on building a beautiful and performant software. Improve the communication between Designers and Developers, lead teams, and mentor less experienced Designers or Frontend Developers.",
+      "pt": "Minha experiência, me traz a habilidade de tomar decisões mais concretas no desenvolvimento de um software mais bonito e com performance. Posso aprimorar a comunicação entre Design e Desenvolvimento, liderar equipes e mentorear a carreira de designers e desenvolvedores menos experientes.",
+    }
+  },
+}
