@@ -19,7 +19,7 @@
     "pm2": "^3.5.1"
   },
   "devDependencies": {
-    "nodemon": "^1.19.1"
+    "nodemon": "1.19.4"
   },
   "optionalDependencies": {
     "eslint": "^5.16.0",
