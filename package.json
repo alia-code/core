@@ -22,7 +22,7 @@
     "nodemon": "2.0.5"
   },
   "optionalDependencies": {
-    "eslint": "^6.0.0",
+    "eslint": "^7.0.0",
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^2.17.3",
     "eslint-config-standard": "^14.0.0",
