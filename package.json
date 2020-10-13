@@ -19,7 +19,7 @@
     "pm2": "^4.0.0"
   },
   "devDependencies": {
-    "nodemon": "2.0.2"
+    "nodemon": "2.0.5"
   },
   "optionalDependencies": {
     "eslint": "^6.0.0",
